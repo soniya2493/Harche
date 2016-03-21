@@ -4,5 +4,5 @@
 
 
 SCOPE FOR FURTHER ENHANCEMENT
-  •	A module from where entities can communicate
-  •	Future prediction of data using past and present data
+  A module from where entities can communicate
+  Future prediction of data using past and present data
