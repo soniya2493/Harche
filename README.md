@@ -7,3 +7,7 @@
  
   - A module from where entities can communicate
   - Future prediction of data using past and present data
+  - Report mailing system can be used
+  - This system can be enhanced as a simple mobile application, which provides notification and report
+  - More efficient cryptographic, compression algorithms can be used to improve the system efficiency 
+  
