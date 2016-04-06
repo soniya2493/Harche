@@ -4,7 +4,7 @@ The main objective of HARCHE is to reduce the effort of the administrator in man
 
 This Big Data project has been developed using Python for the front end. THe backend is implemented using HDFS and Spark SQL. The main application essentially fetches the required data and stores the details using HDFS. 
 
-for demo http://y2u.be/SdfGKMoMVuU
+For Demo http://y2u.be/SdfGKMoMVuU
 
 ## SCOPE FOR FURTHER ENHANCEMENT
  
